@@ -1,0 +1,11 @@
+Flask==3.0.0
+groq==0.4.0
+gunicorn==21.2.0
+```
+
+**Create `.gitignore`**:
+```
+__pycache__/
+*.pyc
+.env
+venv/
